@@ -1,0 +1,109 @@
+/* Google Font */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body{
+    background-color: #E5EBB2;
+}
+   
+.same{
+    width: 35%;
+}
+.box{
+
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.assignment-body{
+    padding: 30px;
+    height: auto;
+    width: 100%;
+    background: red;
+    margin-top: 30px;
+}
+
+.box2 .img_inr{
+
+    width: 200px;
+    height: 200px;
+}
+
+.box2 .img_inr img{
+
+    width: 100%;
+    height: 100%;
+}
+
+.assignment-body{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box1{
+
+    width: 50%;
+}
+
+.box2{
+
+    width: 40%;
+}
+
+.box1 h2{
+
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.box1 p{
+
+    color: #fff;
+    font-size: 1rem;
+}
+
+.main_box{
+
+    background-color: #571212 ;
+    display: flex;
+}
+
+.same h4, .same p{
+
+    color: #fff;
+}
+
+.same h4{
+
+    font-size: 20px;
+    padding-bottom: 10px;
+    /* font-size: 2rem; */
+}
+
+.same p{
+
+    color: antiquewhite;
+    /* font-size: 1rem; */
+}
+.same{
+
+    padding: 25px;
+}
+
+
+.main_box_1,.main_box_2{
+
+    border-right: 3px solid red
+}
