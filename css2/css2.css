@@ -42,14 +42,6 @@ footer {
     height: 70px;
 }
 
-.f1 {
-    margin: 30px 30px;
-}
-
-.f2 {
-    margin: 30px 30px;
-}
-
-.f3 {
-    margin: 30px 30px;
+.sameMargin {
+    margin: 25px 25px;
 }
